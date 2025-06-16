@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Receita de Bolo de Morango</title>
+  <style>
+    body {
+      background-color: plum;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+
+    h1 {
+      font-size: 48px;
+      color: #e6005c;
+      text-shadow: 3px 3px 6px #800040;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    h2, h3 {
+      color: red;
+      text-shadow: 1px 1px 3px #555;
+      margin-top: 30px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    li {
+      margin-bottom: 6px;
+      font-size: 17px;
+    }
+
+    a {
+      text-decoration: none;
+      font-size: 24px;
+      display: inline-block;
+      margin-bottom: 20px;
+      color: #800040;
+    }
+
+    img {
+      float: right;
+      margin-left: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px #555;
+    }
+  </style>
+</head>
+<body>
+
+  <a href="site.html.github.html">🏠 Voltar à Home</a>
+
+  <h1>Bolo de Morango 🍓</h1>
+  <img src="bolo.morango.jpg" alt="Bolo de Morango" width="300" height="300">
+
+  <h2>Ingredientes da Massa:</h2>
+  <ul>
+    <li>3 ovos</li>
+    <li>2 xícaras (chá) de açúcar</li>
+    <li>1 xícara (chá) de óleo</li>
+    <li>1 xícara (chá) de leite</li>
+    <li>2 ½ xícaras (chá) de farinha de trigo</li>
+    <li>1 colher (sopa) de fermento em pó</li>
+    <li>1 pitada de sal</li>
+    <li>1 colher (chá) de essência de baunilha (opcional)</li>
+  </ul>
+
+  <h2>Modo de Preparo da Massa:</h2>
+  <p>
+    Pré-aqueça o forno a 180°C.<br>
+    Em uma tigela, bata os ovos com o açúcar até formar um creme claro e fofo.<br>
+    Acrescente o óleo e o leite, misturando bem.<br>
+    Adicione a essência de baunilha.<br>
+    Vá incorporando a farinha peneirada aos poucos, mexendo até a massa ficar homogênea.<br>
+    Adicione o fermento por último e mexa delicadamente.<br>
+    Despeje a massa em uma forma média untada e enfarinhada.<br>
+    Leve ao forno por cerca de 35 a 40 minutos, ou até que um palito saia limpo ao ser inserido no centro.
+  </p>
+
+  <h2>Recheio Cremoso de Morango</h2>
+  <h3>Ingredientes:</h3>
+  <ul>
+    <li>1 lata de leite condensado</li>
+    <li>1 colher (sopa) de manteiga</li>
+    <li>½ caixa de creme de leite</li>
+    <li>1 xícara (chá) de morangos picados (frescos)</li>
+  </ul>
+
+  <h3>Modo de Preparo:</h3>
+  <p>
+    Em uma panela, leve ao fogo o leite condensado e a manteiga.<br>
+    Mexa até engrossar levemente (como um brigadeiro mole).<br>
+    Desligue o fogo, adicione o creme de leite e misture bem.<br>
+    Deixe esfriar e só então misture os morangos picados.<br>
+    Reserve o recheio na geladeira até a hora de montar.
+  </p>
+
+  <h2>Cobertura de Chantilly com Morangos</h2>
+  <h3>Ingredientes:</h3>
+  <ul>
+    <li>1 caixa de creme para chantilly gelado (ou 500 ml de creme de leite fresco)</li>
+    <li>3 colheres (sopa) de açúcar (se necessário, dependendo do chantilly usado)</li>
+    <li>Morangos frescos inteiros ou cortados para decorar</li>
+  </ul>
+
+  <h2>Modo de Preparo:</h2>
+  <p>
+    Bata o chantilly na batedeira até obter picos firmes.<br>
+    Adicione açúcar, se desejar mais doce.<br>
+    Espalhe sobre o bolo já montado e recheado.<br>
+    Decore com morangos por cima.
+  </p>
+
+  <h3>Montagem:</h3>
+  <p>
+    Após o bolo esfriar, corte-o ao meio no sentido horizontal.<br>
+    Recheie com o creme de morango.<br>
+    Cubra com a outra metade do bolo.<br>
+    Finalize com o chantilly e os morangos decorativos.
+  </p>
+
+  <h3>Dicas:</h3>
+  <p>
+    Para um toque extra, regue as camadas com calda de leite condensado com morango ou leite com baunilha.<br>
+    Se quiser um recheio mais firme, adicione 1 colher (sopa) de amido de milho dissolvido ao creme no preparo.<br>
+    Pode usar gelatina de morango hidratada e fria para dar firmeza ao recheio, se desejar.
+  </p>
+
+</body>
+</html>
